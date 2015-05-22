@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Vibrancy-NonMono-Light-Purple
-Inherits=Vibrancy-Colors-NonMono-Light,Vibrancy-Colors,ubuntu-mono-light,gnome,hicolor
+Name=Vibrancy-Purple
+Inherits=Vibrancy-Colors,gnome,hicolor
 Comment=The Vibrancy Colors Icon theme. Uses icons/elements of Faenza,Moka/Faba,Elementary,KDE Breeze & Numix Icons. Mixed and polished By RAVEfinity <www.ravefinity.com>
 Directories=actions/16,animations/16,apps/16,categories/16,mimetypes/16,status/16,stock/16,actions/22,animations/22,apps/22,categories/22,mimetypes/22,status/22,stock/22,actions/24,animations/24,apps/24,categories/24,mimetypes/24,status/24,stock/24,actions/32,apps/32,categories/32,mimetypes/32,status/32,stock/32,actions/48,apps/48,categories/48,mimetypes/48,status/48,stock/48,actions/scalable,mimetypes/scalable,status/scalable,stock/scalable,places/scalable,devices/16,devices/22,devices/24,apps/24,apps/32,devices/32,apps/48,devices/48,apps/64,devices/64,categories/64,apps/96,categories/96,apps/256,categories/256
 Example=directory-x-normal
