@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Vivacious-Colors
 
-Inherits=gnome,hicolor
+Inherits=mate,hicolor
 
 Comment=Vivacious Colors Icon theme. Uses icons/elements of Faenza, KDE Breeze, Emerald, Moka/Faba,Elementary & Numix Icons. Newly Designed, Mixed and polished By RAVEfinity <www.ravefinity.com>
 
