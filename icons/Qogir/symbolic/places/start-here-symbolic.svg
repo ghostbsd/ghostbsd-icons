@@ -1,1 +1,158 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" enable-background="new"><defs><filter id="a" color-interpolation-filters="sRGB"><feBlend in2="BackgroundImage" mode="darken"/></filter></defs><g transform="translate(-543 -190)" fill="#5d656b"><rect height="4" rx="0" ry="0" width="4" x="546" y="193"/><rect height="4" rx="0" ry="0" width="4" x="552" y="193"/><rect height="4" rx="0" ry="0" width="4" x="552" y="199"/><rect height="4" rx="0" ry="0" width="4" x="546" y="199"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg25"
+   sodipodi:docname="start-here-symbolic.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1014"
+     id="namedview27"
+     showgrid="false"
+     inkscape:zoom="34.666667"
+     inkscape:cx="10.096154"
+     inkscape:cy="9.6923077"
+     inkscape:window-x="1080"
+     inkscape:window-y="265"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg25" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text{color:#bebebe}</style>
+  </defs>
+  <g
+     transform="matrix(1.1420118,0,0,1.1420118,-7.3930769e-4,0.43195266)"
+     id="g23"
+     style="fill:#5d656b">
+    <rect
+       class="ColorScheme-Text"
+       width="3"
+       height="3"
+       x="4"
+       y="4"
+       rx="0.5"
+       ry="0.5"
+       fill="currentColor"
+       id="rect5"
+       style="fill:#5d656b" />
+    <rect
+       class="ColorScheme-Text"
+       width="3"
+       height="3"
+       x="4"
+       y="9"
+       rx="0.5"
+       ry="0.5"
+       fill="currentColor"
+       id="rect7"
+       style="fill:#5d656b" />
+    <rect
+       class="ColorScheme-Text"
+       width="3"
+       height="3"
+       x="4"
+       y="14"
+       rx="0.5"
+       ry="0.5"
+       fill="currentColor"
+       id="rect9"
+       style="fill:#5d656b" />
+    <rect
+       class="ColorScheme-Text"
+       width="3"
+       height="3"
+       x="9"
+       y="4"
+       rx="0.5"
+       ry="0.5"
+       fill="currentColor"
+       id="rect11"
+       style="fill:#5d656b" />
+    <rect
+       class="ColorScheme-Text"
+       width="3"
+       height="3"
+       x="9"
+       y="9"
+       rx="0.5"
+       ry="0.5"
+       fill="currentColor"
+       id="rect13"
+       style="fill:#5d656b" />
+    <rect
+       class="ColorScheme-Text"
+       width="3"
+       height="3"
+       x="9"
+       y="14"
+       rx="0.5"
+       ry="0.5"
+       fill="currentColor"
+       id="rect15"
+       style="fill:#5d656b" />
+    <rect
+       class="ColorScheme-Text"
+       width="3"
+       height="3"
+       x="14"
+       y="4"
+       rx="0.5"
+       ry="0.5"
+       fill="currentColor"
+       id="rect17"
+       style="fill:#5d656b" />
+    <rect
+       class="ColorScheme-Text"
+       width="3"
+       height="3"
+       x="14"
+       y="9"
+       rx="0.5"
+       ry="0.5"
+       fill="currentColor"
+       id="rect19"
+       style="fill:#5d656b" />
+    <rect
+       class="ColorScheme-Text"
+       width="3"
+       height="3"
+       x="14"
+       y="14"
+       rx="0.5"
+       ry="0.5"
+       fill="currentColor"
+       id="rect21"
+       style="fill:#5d656b" />
+  </g>
+</svg>
